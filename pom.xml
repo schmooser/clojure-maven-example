@@ -6,7 +6,7 @@
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
     <name>clojure-maven-example</name>
-    <url>http://ora600.ru/post/clojure-maven-example</url>
+    <url>http://blog.ora600.ru/post/clojure-maven-example</url>
     <dependencies>
         <dependency>
             <groupId>org.clojure</groupId>
